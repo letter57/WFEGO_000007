@@ -76,7 +76,7 @@
 ## 🎯 使用模式   
 - 切換至所需身份後，將卡靠近門禁機或讀卡機即可.   
 
-## 📹 示範影片   
+## 📹 [示範影片](https://youtube.com/shorts/A76c3VGtT98?si=wzIHkC1yYwDs7BKZ)   
 
 ---
 
