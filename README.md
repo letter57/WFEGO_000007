@@ -76,7 +76,11 @@
 ## 🎯 使用模式   
 - 切換至所需身份後，將卡靠近門禁機或讀卡機即可.   
 
-## 📹 [示範影片](https://youtube.com/shorts/A76c3VGtT98?si=wzIHkC1yYwDs7BKZ)   
+## 📹 [示範影片](https://www.youtube.com/watch?v=bB62DOSFjHc)   
+
+---
+## 🎯 [外殼模型下載](https://makerworld.com/zh/models/1880643-wfego_000007_duplicate-card#profileId-2013693)   
+
 
 ---
 
