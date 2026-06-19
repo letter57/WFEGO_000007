@@ -34,6 +34,8 @@
 * 欲複製的RFID卡.   
 * 本產品 WFEGO RFID 多UID切換卡.   
 
+## 📘 [使用說明書](./user_guide/multi_switch_card_user_guide.md)
+
 ---
 
 ## 🚀 拷貝 UID 操作步驟   
